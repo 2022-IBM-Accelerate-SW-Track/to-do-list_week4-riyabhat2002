@@ -18,10 +18,9 @@ export default class About extends Component {
         </div>
         <div className="split right">
           <div className="centered">
-            <div className="name_title">Your Name</div>
+            <div className="name_title">Riya Bhat</div>
             <div className="brief_description">
-              Tell us about yourself in a few sentences. Tell us your interests
-              and say a fun fact about yourself.
+              Hello! My name is Riya Bhat. I am a rising junior at UW-Madison majoring in Computer Science and engineering. Fun fact about me is that I have jumped into Lake Mendota in -5 degree celcius!
             </div>
           </div>
         </div>
